@@ -3,7 +3,7 @@
 A GUI-based Language Translation Tool built with Python as part of the **CodeAlpha AI Internship**.
 
 Screenshot:
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## ✨ Features
 
